@@ -5,7 +5,8 @@ Kyle Eberle
 # Project Description
 In this project I was tasked with looking into the public Buffalo 311 Request data, along with any comparitive data,
 to analyze for general trends or comparisons with the data sets.
-I decided to look at both the open 311 Request data and the Crime Incident data, focused on the entire 2022 year
+I decided to look at both the open 311 Request data and the Crime Incident data, focused on the entire 2022 year.
+
 In this analysis I focused on the following:
 * General cleanup and manipulation of the data sets
   * To be able answer questions with the most compelling visuals
