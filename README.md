@@ -1,4 +1,5 @@
 # 311-Request-Project
+![Alt text](/relative/path/to/Document.png?raw=true "Optional Title")
 Dat512 Canisius College
 
 Kyle Eberle
@@ -18,4 +19,7 @@ In this analysis I focused on the following:
 https://data.buffalony.gov/Quality-of-Life/311-Service-Requests/whkc-e5vr
 
 https://data.buffalony.gov/Public-Safety/Crime-Incidents/d6g9-xbgu
-# 
+# Project Overview
+## Data Pull/Cleaning
+* Data was pulled from the Open Buffalo Data site using API request method
+
