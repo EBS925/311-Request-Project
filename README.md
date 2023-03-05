@@ -1,6 +1,6 @@
 # 311-Request-Project
-![My Image](Document.png)
 Dat512 Canisius College
+
 Kyle Eberle
 # Project Description
 In this project I was tasked with looking into the public Buffalo 311 Request data, along with any comparitive data,
@@ -15,5 +15,6 @@ In this analysis I focused on the following:
 * Geo-Map visuals shocasing the breakout of requests/crimes by the Buffalo Neighborhoods
 # Data used for project
 https://data.buffalony.gov/Quality-of-Life/311-Service-Requests/whkc-e5vr
+
 https://data.buffalony.gov/Public-Safety/Crime-Incidents/d6g9-xbgu
 # 
