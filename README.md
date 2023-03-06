@@ -39,7 +39,7 @@ https://data.buffalony.gov/Public-Safety/Crime-Incidents/d6g9-xbgu
 #### Main Comparison Visual - Geo-Map Density Plot
 In this analysis I had the theory that areas of Buffalo would have simalar rates of 311 requests to crime rates
 
-![alt text](https://github.com/EBS925/311-Request-Project/311 Map.jpg?raw=true)
+![alt text](https://github.com/EBS925/311-Request-Project/blob/main/311%20Map.jpg?raw=true)
 
 When I looked into the map of 311 Requests I found that the highest concentration of requests were in the Elmwood/Bidwell
 area and the Bailey Avenue/Cheektowaga areas. This tracked with what i expected to see, especially with the Elmwood/Bidwell 
