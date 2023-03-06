@@ -50,3 +50,5 @@ around our neighborhood, and parts of Bailey Avenue unfortunately have a reputat
 When I looked into the Crime incident data, I got a result I wouldnt say I was surprised with, but one that did contradict my original theory.
 In this plot I found that the highest rates of crime over 2022 occured in Downtown Buffalo and the North Buffalo areas. Seen below we can see that breakout 
 showing the high rates of theft crime throughout the areas mentioned.
+
+![alt text](https://github.com/EBS925/311-Request-Project/blob/main/Crime%20Map.jpg?raw=true)
