@@ -1,6 +1,7 @@
 # 311-Request-Project
 
 Dat512 
+
 Canisius College
 
 Kyle Eberle
@@ -37,3 +38,13 @@ https://data.buffalony.gov/Public-Safety/Crime-Incidents/d6g9-xbgu
    there is a decent dip in the overall crime rate for theft
 #### Main Comparison Visual - Geo-Map Density Plot
 In this analysis I had the theory that areas of Buffalo would have simalar rates of 311 requests to crime rates
+
+When I looked into the map of 311 Requests I found that the highest concentration of requests were in the Elmwood/Bidwell
+area and the Bailey Avenue/Cheektowaga areas. This tracked with what i expected to see, especially with the Elmwood/Bidwell 
+neighborhood. When I used to live on Lexington Ave in Elmwood, I remember an abundance of Street Repairs, Sanitation/Sewage work,
+Tree Maintanince always being worked on. Also from my time being in that area I remember always hearing about numerous petty thefts and crimes occuring 
+around our neighborhood, and parts of Bailey Avenue unfortunately have a reputation for crimes whicjh I expected to see in my next plot
+
+When I looked into the Crime incident data, I got a result I wouldnt say I was surprised with, but one that did contradict my original theory.
+In this plot I found that the highest rates of crime over 2022 occured in Downtown Buffalo and the North Buffalo areas. Seen below we can see that breakout 
+showing the high rates of theft crime throughout the areas mentioned.
